@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main # change this to your branch
-  repo: wy666wy666/wy01 # 1、change this to your repo
+  repo: wy01 # 1、change this to your repo
   site_domain: wy01.345335.xyz # 2、change this to your domain
   base_url: https://wy01.345335.xyz # 3、change this to your prod URL
   auth_endpoint: oauth # the oauth route provided by the integration
